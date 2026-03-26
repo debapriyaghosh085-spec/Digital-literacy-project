@@ -22,7 +22,9 @@ task-3-platforms/ → Coding challenge & Google Form
 task-4-email-etiquette/ → Professional emails & checklist
 task-5-cybercrime/ → Case study & prevention tips
 report/ → Final Project Report
+
 🧩 Task Summary
+
 🔹 Task 1: Infographic
 
 Created a digital literacy awareness infographic using Canva.
